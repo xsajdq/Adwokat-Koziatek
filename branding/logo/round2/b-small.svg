@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>B – small</title>
+  <g fill="#111">
+<path fill-rule="evenodd" d="M12 128A116 116 0 1 0 244 128A116 116 0 1 0 12 128Z M22 128A106 106 0 1 1 234 128A106 106 0 1 1 22 128Z"/>
+<path transform="translate(66.80 68.00) scale(0.6000)" d="M30 0H62V200H30Z M14 0H78V7H14Z M14 193H78V200H14Z M62 113.4L142.1 0H153.3L62 128.6Z M126 0H172V7H126Z M76.2 109.3L91.9 80.6L170.2 180Q181 196 214 200H147.7Z"/>
+  </g>
+</svg>
