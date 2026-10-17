@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>A – Kolumna K</title>
+  <g fill="#111" transform="translate(7 0)">
+    <rect x="52" y="40" width="72" height="14"/>
+    <rect x="48" y="202" width="80" height="14"/>
+    <path fill-rule="evenodd" d="M64 54H112V202H64Z M78 66H84V190H78Z M92 66H98V190H92Z"/>
+    <path d="M112 100L172 40H223L112 151Z"/>
+    <path d="M112 156L172 216H223L112 105Z"/>
+  </g>
+</svg>

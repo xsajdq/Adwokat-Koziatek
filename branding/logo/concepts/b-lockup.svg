@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 256">
+    <g fill="#111" transform="translate(5 0)">
+    <rect x="60" y="40" width="44" height="176"/>
+    <path d="M104 98C148 98 186 80 206 34C200 98 152 140 104 140Z"/>
+    <path d="M104 158C148 158 186 176 206 222C200 158 152 116 104 116Z"/>
+  </g>
+  <text x="270" y="118" font-family="Caladea, Liberation Serif, serif" font-size="40" letter-spacing="14" fill="#111">ADWOKAT</text>
+  <text x="266" y="196" font-family="Caladea, Liberation Serif, serif" font-size="84" font-weight="700" letter-spacing="6" fill="#111">KOZIATEK</text>
+</svg>
